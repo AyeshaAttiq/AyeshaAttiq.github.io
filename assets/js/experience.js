@@ -5,14 +5,28 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Research Intern",
+    title: "Research Intern, Nanomaterials & Electrospinning",
+    cardImage: "assets/images/experience-page/aems.svg",
+    place: "AEMS Lab, USPCAS-E, NUST \u00b7 Islamabad, Pakistan",
+    time: "(June 2026 \u2013 September 2026)",
+    desp: "<li>Contributed to the project <em>Electrospinning Enabled Fabrication of MoTe<sub>2</sub> Nanostructured Fibers</em>, synthesizing transition-metal dichalcogenide nanofibers by electrospinning.</li><li>Ran synthesis and materials characterization, and carried out the data analysis for them.</li><li>Reported experimental results in written technical reports.</li>",
+  },
+  {
+    title: "Research Intern, Battery Electrochemistry",
+    cardImage: "assets/images/experience-page/sns.svg",
+    place: "Department of Chemistry (SNS), NUST \u00b7 Islamabad, Pakistan",
+    time: "(August 2026)",
+    desp: "<li>Worked on <em>Synthesis of an Artificial Solid Electrolyte Interface Film for Zinc Metal Batteries</em>, synthesizing polymer-based protective coatings of varying composition.</li><li>Characterized cells by cyclic voltammetry, electrochemical impedance spectroscopy (EIS) and galvanostatic charge\u2013discharge.</li><li>Reviewed the literature on dendrite suppression: interfacial stabilization, uniform Zn<sup>2+</sup> flux and electrolyte compatibility.</li>",
+  },
+  {
+    title: "Research Intern, Analytical & Materials Chemistry",
     cardImage: "assets/images/experience-page/pinstech.svg",
     place: "PINSTECH \u00b7 Islamabad, Pakistan",
     time: "(July 2025 \u2013 August 2025)",
     desp: "<li>Carried out advanced electrochemical and spectroscopic analysis including cyclic voltammetry, UV-Vis spectrophotometry and atomic absorption spectroscopy.</li><li>Ran separations and identification by high-performance liquid chromatography, gas chromatography and GC-MS.</li><li>Developed and synthesized resin-based materials for electrochemical and catalytic uses, building working knowledge of material characterization.</li>",
   },
   {
-    title: "Research Intern",
+    title: "Intern, Quantum Computing for Chemistry",
     cardImage: "assets/images/experience-page/cetqap.svg",
     place: "CETQAP \u00b7 Remote",
     time: "(July 2025 \u2013 August 2025)",

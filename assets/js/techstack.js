@@ -35,6 +35,26 @@ const techStack = [
     langDesc: "<li>Electrochemical technique sweeping potential to study redox behaviour, reaction reversibility and electron-transfer kinetics.</li>",
   },
   {
+    langImage: "assets/images/techstack-page/eis.svg",
+    langName: "Electrochemical Impedance Spectroscopy",
+    langDesc: "<li>Small-signal AC measurement across a frequency range, used to separate charge-transfer resistance from interfacial and diffusion behaviour.</li>",
+  },
+  {
+    langImage: "assets/images/techstack-page/gcd.svg",
+    langName: "Galvanostatic Charge-Discharge",
+    langDesc: "<li>Constant-current cycling of a cell to evaluate capacity, coulombic efficiency and cycling stability over repeated charge and discharge.</li>",
+  },
+  {
+    langImage: "assets/images/techstack-page/electrospinning.svg",
+    langName: "Electrospinning",
+    langDesc: "<li>Fabrication of nanostructured fibers by drawing a polymer solution through an electric field, with control over fiber morphology.</li>",
+  },
+  {
+    langImage: "assets/images/techstack-page/dft.svg",
+    langName: "Density Functional Theory",
+    langDesc: "<li>Electronic-structure modelling with VASP, applied to surface systems and to adsorption and catalytic reaction studies.</li>",
+  },
+  {
     langImage: "assets/images/techstack-page/uvvis.svg",
     langName: "UV-Vis Spectrophotometry",
     langDesc: "<li>Measurement of absorbance across ultraviolet and visible wavelengths for concentration and electronic-structure analysis.</li>",

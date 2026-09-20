@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="SUSTECH-2026">
+  <defs>
+    <linearGradient id="ug" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9a3412"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="260" fill="url(#ug)"/>
+  <path d="M200 46 C150 66 130 112 152 148 C176 128 196 96 200 46 Z"
+        fill="#ffffff" fill-opacity="0.32"/>
+  <path d="M200 46 C250 66 270 112 248 148 C224 128 204 96 200 46 Z"
+        fill="#ffffff" fill-opacity="0.5"/>
+  <path d="M206 82 L184 122 L200 122 L194 154 L218 112 L202 112 Z"
+        fill="#ffffff" fill-opacity="0.92"/>
+  <text x="200" y="188" font-family="Georgia, serif" font-size="30" font-weight="bold"
+        fill="#ffffff" text-anchor="middle" letter-spacing="2">SUSTECH-2026</text>
+  <text x="200" y="214" font-family="Helvetica, Arial, sans-serif" font-size="13"
+        fill="#ffffff" fill-opacity="0.75" text-anchor="middle" letter-spacing="1">ENERGY STORAGE</text>
+</svg>

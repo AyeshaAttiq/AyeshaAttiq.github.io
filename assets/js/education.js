@@ -5,14 +5,64 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Research Internship - PINSTECH",
+    title: "Research Internship \u00b7 AEMS Lab, USPCAS-E",
+    cardImage: "assets/images/education-page/aems.svg",
+    moocLink: "https://drive.google.com/file/d/1uHTbtmBGH8Bjn5UyhQFqYH678B5ET_39/view?usp=sharing",
+  },
+  {
+    title: "Research Internship \u00b7 Department of Chemistry, SNS",
+    cardImage: "assets/images/education-page/sns.svg",
+    moocLink: "https://drive.google.com/file/d/1FgZs9f10s-RVv7LVSSpfng1RnIctoZnu/view?usp=sharing",
+  },
+  {
+    title: "MOSPI-2026 Workshop \u00b7 DFT Cluster",
+    cardImage: "assets/images/education-page/mospi.svg",
+    moocLink: "https://drive.google.com/file/d/1C7yWi-c14tV5ke4tRwTF9DD-DW3ySkHr/view?usp=sharing",
+  },
+  {
+    title: "SUSTECH-2026 Workshop \u00b7 Energy Storage",
+    cardImage: "assets/images/education-page/sustech.svg",
+    moocLink: "https://drive.google.com/file/d/1eQ0tomMYCXeZX_XHByCG34M9VjEwlbIk/view?usp=sharing",
+  },
+  {
+    title: "Research Internship \u00b7 PINSTECH",
     cardImage: "assets/images/education-page/pinstech.svg",
     moocLink: "https://drive.google.com/drive/folders/1vzTJ8bfKJUQR76T26nnbQ9DnkiQwEDb6",
   },
   {
-    title: "Quantum Computing Internship - CETQAP",
+    title: "Quantum Computing Internship \u00b7 CETQAP",
     cardImage: "assets/images/education-page/cetqap.svg",
     moocLink: "https://drive.google.com/drive/folders/17-R4DzqX66O5yU82S5Hyj399aihbqVa_",
+  },
+  {
+    title: "Introduction to Process Safety and Risk Analysis",
+    cardImage: "assets/images/education-page/coursera.jpg",
+    moocLink: "https://drive.google.com/file/d/1zyCP5dO8EXEgR3N0ZZCsbxWrqGdwoCBb/view?usp=sharing",
+  },
+  {
+    title: "Introduction to HSE Engineering",
+    cardImage: "assets/images/education-page/coursera.jpg",
+    moocLink: "https://drive.google.com/file/d/1Pcq2Y0gl1HjOh-JIIhKnVfQRzR8WOYPH/view?usp=sharing",
+  },
+  {
+    title: "Chemical Process Safety",
+    cardImage: "assets/images/education-page/coursera.jpg",
+    moocLink: "https://drive.google.com/file/d/1Sn8X6b6nI1rZtMWABrJl--rw4OqPktHM/view?usp=sharing",
+  },
+  {
+    title: "Material Chemistry and Sustainable Building",
+    cardImage: "assets/images/education-page/coursera.jpg",
+    moocLink: "https://drive.google.com/file/d/1l073bdano_YYO1t_l1u_tfe3Eqe0XGCm/view?usp=sharing",
+  },
+  {
+    title: "Density Functional Theory",
+    cardImage: "assets/images/education-page/coursera.jpg",
+    moocLink: "https://drive.google.com/file/d/1HEbBQqKqB2Y46BiNS50f6gR-uabWFMk7/view?usp=sharing",
+  },
+  {
+    title: "Petroleum Engineering with AI Applications (Specialization)",
+    cardImage: "assets/images/education-page/coursera.jpg",
+    moocLink: "https://drive.google.com/drive/folders/1w5XHIG0-l-pgnB1TcjTOW8Pn65CQj4Fw",
   },
 ];
 
