@@ -36,32 +36,32 @@ const moocscards = [
   },
   {
     title: "Introduction to Process Safety and Risk Analysis",
-    cardImage: "assets/images/education-page/coursera.jpg",
+    cardImage: "assets/images/education-page/coursera.svg",
     moocLink: "https://drive.google.com/file/d/1zyCP5dO8EXEgR3N0ZZCsbxWrqGdwoCBb/view?usp=sharing",
   },
   {
     title: "Introduction to HSE Engineering",
-    cardImage: "assets/images/education-page/coursera.jpg",
+    cardImage: "assets/images/education-page/coursera.svg",
     moocLink: "https://drive.google.com/file/d/1Pcq2Y0gl1HjOh-JIIhKnVfQRzR8WOYPH/view?usp=sharing",
   },
   {
     title: "Chemical Process Safety",
-    cardImage: "assets/images/education-page/coursera.jpg",
+    cardImage: "assets/images/education-page/coursera.svg",
     moocLink: "https://drive.google.com/file/d/1Sn8X6b6nI1rZtMWABrJl--rw4OqPktHM/view?usp=sharing",
   },
   {
     title: "Material Chemistry and Sustainable Building",
-    cardImage: "assets/images/education-page/coursera.jpg",
+    cardImage: "assets/images/education-page/coursera.svg",
     moocLink: "https://drive.google.com/file/d/1l073bdano_YYO1t_l1u_tfe3Eqe0XGCm/view?usp=sharing",
   },
   {
     title: "Density Functional Theory",
-    cardImage: "assets/images/education-page/coursera.jpg",
+    cardImage: "assets/images/education-page/coursera.svg",
     moocLink: "https://drive.google.com/file/d/1HEbBQqKqB2Y46BiNS50f6gR-uabWFMk7/view?usp=sharing",
   },
   {
     title: "Petroleum Engineering with AI Applications (Specialization)",
-    cardImage: "assets/images/education-page/coursera.jpg",
+    cardImage: "assets/images/education-page/coursera.svg",
     moocLink: "https://drive.google.com/drive/folders/1w5XHIG0-l-pgnB1TcjTOW8Pn65CQj4Fw",
   },
 ];
