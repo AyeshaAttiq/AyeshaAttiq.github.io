@@ -71,9 +71,13 @@ html[light-mode="light"] .tech_card{
     padding: 20px;
     
 }
+/* These headings were set to the generic `cursive` family, which resolves to
+   Comic Sans MS on Windows -- the only place on the site not using Poppins.
+   Inheriting keeps every skill card in the same typeface as the rest of the page. */
 .tech_card h4{
-    font-weight: bold;
-    font-family: cursive;
+    font-weight: 600;
+    font-family: inherit;
+    letter-spacing: 0.2px;
 }
 .main-heading{
     font-weight: 700;
